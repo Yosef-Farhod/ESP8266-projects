@@ -1,8 +1,13 @@
-📡 ESP8266 Projects
-A collection of experimental and practical projects using the ESP8266 microcontroller (e.g., NodeMCU, Wemos D1 mini).
+# 📡 ESP8266 Projects
+
+A collection of experimental and practical projects using the **ESP8266** microcontroller (e.g., NodeMCU, Wemos D1 mini).  
 This repo includes examples for connecting to WiFi, sending data to Firebase, reading sensors, and general IoT prototyping.
 
-📁 Folder Structure
+---
+
+## 📁 Folder Structure
+
+```text
 ESP8266-projects/
 ├── firebase-uploader/       # Send data to Firebase Realtime DB
 ├── wifi-manager/            # Auto WiFi connect with reconnection logic
@@ -58,3 +63,4 @@ Clone this repo:
 git clone https://github.com/YOUR_USERNAME/ESP8266-projects.git
 cd ESP8266-projects
 Open any folder and upload to your ESP8266 board.
+
